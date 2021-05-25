@@ -34,7 +34,7 @@ body {
 }
 
 .resume .resume_left {
-  width: 280px;
+  width: 320px;
   background: #0bb5f4;
 }
 
@@ -120,7 +120,7 @@ body {
 }
 
 .resume .resume_left .resume_skills ul li .skill_progress {
-  width: 60%;
+  width: 45%;
   margin: 0 5px;
   height: 5px;
   background: #009fd9;
@@ -178,6 +178,8 @@ body {
   margin-bottom: 0;
 }
 
+
+
 .resume .resume_right .resume_work ul li:before,
 .resume .resume_right .resume_education ul li:before {
   content: "";
@@ -197,7 +199,7 @@ body {
   top: 14px;
   left: -21px;
   width: 2px;
-  height: 115px;
+  height: 80%;
   background: #0bb5f4;
 }
 
@@ -223,8 +225,8 @@ body {
   content: "";
   position: absolute;
   top: 40px;
-  right: -52px;
-  width: 50px;
+  right: -43px;
+  width: 43px;
   height: 2px;
   background: #0bb5f4;
 }
