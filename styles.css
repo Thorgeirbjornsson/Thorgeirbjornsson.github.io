@@ -234,3 +234,8 @@ body {
 .resume .resume_right .resume_hobby ul li:last-child:before {
   display: none;
 }
+
+.resume .resume_left .hobby_flex {
+  display: flex;
+  justify-content: space-between;
+}
